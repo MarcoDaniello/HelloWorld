@@ -1,4 +1,3 @@
-print "Inserisci lato"
-lato= input()
+lato=input("Inserisci lato")
 volume=lato*lato*lato
 print volume
