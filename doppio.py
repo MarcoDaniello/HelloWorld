@@ -1,4 +1,3 @@
-print "Inserisci un numero"
-numero= input()
+numero = input ("inserisci un numero")
 doppio=numero*2
 print doppio
