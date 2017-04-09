@@ -33,4 +33,4 @@ else:
         print "L'equazione ammette due soluzioni distinte"
         rad_delta = math.sqrt(delta)
         print "x1 =", (-float(B) - rad_delta) / (2.0 * float(A))
-print "x2 =", (-float(A) + rad_delta) / (2.0 * float(A))
+        print "x2 =", (-float(A) + rad_delta) / (2.0 * float(A))
