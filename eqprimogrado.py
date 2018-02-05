@@ -11,6 +11,6 @@ elif A==0:
 
 else :
 
-     x = float(B) / float (A)
+     x = -float(B) / float (A)
      
      print "L'equazione ha come soluzione :", x
